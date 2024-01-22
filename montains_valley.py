@@ -16,3 +16,4 @@ def landscapeType(lst):
 
 print(landscapeType([3,4,5,4,3]))
 print(landscapeType([9,8,7,8,9]))
+
