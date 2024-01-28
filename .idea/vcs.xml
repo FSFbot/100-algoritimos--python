@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-<<<<<<< HEAD
+    <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/100-algoritimos--python" vcs="Git" />
-=======
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
->>>>>>> 3feb729fe2548936cba8593d2607f2f84b1dd3e7
   </component>
 </project>
