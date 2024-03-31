@@ -18,7 +18,7 @@ def NextPrime(n):
             if is_prime(n):
                 return n
 
-
+print("New test ssh")
 print(NextPrime(12))
 print(NextPrime(24))
 print(NextPrime(11))
